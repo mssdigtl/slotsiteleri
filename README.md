@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<a href="https://example.com" title="Özel Bonus">
+<a href="https://t.me/+7FPuamFhL5E1YTBk" title="Özel Bonus">
 <img src="https://i.hizliresim.com/1d7hvuc.png" alt="Özel Bonus" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;">
 </a>
 
